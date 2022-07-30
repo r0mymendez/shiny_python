@@ -1,0 +1,4 @@
+wheel==0.37.1
+pyproject-toml==0.0.10
+shiny==0.2.3
+htmltools==0.1.2
