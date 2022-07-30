@@ -2,7 +2,9 @@
 
 > Shiny makes it easy to build interactive web applications with the power of Python’s data and scientific stack.
 
-This repository made a 🌟 shiny image for python🐍 using docker-compose
+This repository made a 🌟 shiny image for python🐍 using docker-compose <br>
+📚 Documentation: [shiny.rstudio.com](https://shiny.rstudio.com/py/)
+
 
 ----
 
